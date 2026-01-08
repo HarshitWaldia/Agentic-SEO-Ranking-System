@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+google_search_results
+langgraph
+openpyxl
+requests
